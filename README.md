@@ -1,4 +1,4 @@
-# HR-Analytics-Dashboard-for-Workforce-Insights-using-Power-BI
+# HR Analytics Dashboard for Workforce Insights using Power BI
 This HR Analytics project focuses on analyzing employee demographics, performance, and attrition within Atlas Labs. The goal is to provide actionable insights that can help improve workforce management, enhance employee satisfaction, and reduce turnover rates. The project is divided into four main components: Overview, Demographics, Performance Tracking, and Attrition Analysis.
 
 ## Key Components:
@@ -12,7 +12,7 @@ This HR Analytics project focuses on analyzing employee demographics, performanc
 
 ## Demographics Analysis:
 
-1.**Employee Composition:** Detailed breakdown of employees by age, gender, marital status, and ethnicity.
+1. **Employee Composition:** Detailed breakdown of employees by age, gender, marital status, and ethnicity.
 
 2. **Salary Insights:** Analysis of average salaries across different demographics to ensure fair compensation practices.
 
