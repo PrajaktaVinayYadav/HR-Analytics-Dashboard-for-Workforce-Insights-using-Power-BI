@@ -55,3 +55,14 @@ This HR Analytics project focuses on analyzing employee demographics, performanc
 **Trend Analysis:** Employing time-series analysis to track changes in attrition and performance metrics over time.
 
 **Segmentation:** Breaking down data by department, job role, and demographics to identify specific areas for improvement.
+
+
+![Overview_1](https://github.com/user-attachments/assets/6d4c0425-3250-460d-b9aa-f2ba55945af2)
+
+![Demographics_2](https://github.com/user-attachments/assets/543e712a-1eea-4988-a791-42e1ed1380e5)
+
+![Performance Tracking_3](https://github.com/user-attachments/assets/a9dc7fa6-dd8c-4f4c-8613-b519ad4cd7ba)
+
+![Attrition_4](https://github.com/user-attachments/assets/fc2f1c39-7e88-4ddb-99ab-10404fe91d13)
+
+
